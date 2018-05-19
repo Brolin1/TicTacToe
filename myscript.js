@@ -8,7 +8,7 @@ var restart=document.querySelector("#b")
 var squares=document.querySelectorAll("td")
 
 
-//clear all the squares
+//clear all the squaresss
 function clearBoard(){
   for (var i = 0; i < squares.length; i++) {
     squares[i].textContent="";
